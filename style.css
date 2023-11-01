@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(70,167,252,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+canvas {
+    background-color: rgba(0, 255, 0, 0.2);
+}
